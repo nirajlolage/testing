@@ -1,2 +1,2 @@
 # testing
-We are testing git app
+Test repo for git command demonstration
